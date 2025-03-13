@@ -12,7 +12,8 @@ npm (Node Package Manager)
 1. Clone the repository:
 ```bash
 git clone https://github.com/kaitouoim/KiteAI.git
-cd KiteAI ```
+cd KiteAi
+```
 
 2. Install dependencies:
 ```bash
